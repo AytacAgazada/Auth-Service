@@ -32,6 +32,5 @@ public class SignupRequest {
     @Size(min = 10, max = 20, message = "Phone number must be between 10 and 20 characters")
     private String phone;
 
-    // private String telegramChatId; // Bu sətri silə bilərsiniz
     private String whatsappId;
 }
