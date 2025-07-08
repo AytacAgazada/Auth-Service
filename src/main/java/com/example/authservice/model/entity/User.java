@@ -57,8 +57,8 @@ public class User implements UserDetails {
 
     // Telegram chat ID (OTP göndərmək üçün)
     // Qeyd: Bu, istifadəçinin Telegram botu ilə əlaqə qurması zamanı əldə edilən ID-dir.
-    @Column(name = "telegram_chat_id", unique = true)
-    private String telegramChatId;
+//    @Column(name = "telegram_chat_id", unique = true)
+//    private String telegramChatId;
 
     // WhatsApp user ID (adətən istifadəçinin beynəlxalq formatda telefon nömrəsi)
     // Qeyd: WhatsApp API-dən asılı olaraq bu, telefon nömrəsinin özü və ya daxili bir ID ola bilər.

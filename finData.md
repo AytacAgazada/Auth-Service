@@ -374,4 +374,3 @@ Sizin **`AuthService`** içərisindəki `authenticateUser` metodu bu **`StateFin
 
 Bu şəkildə, siz birbaşa dövlət bazasına daxil olmadan, dövlətin təqdim etdiyi **xidmət vasitəsilə** FIN kodunun doğruluğunu təsdiqləyə bilərsiniz. Məhz bu "aralıq xidmət" modeli, sizin məqsədinizi texniki olaraq necə reallaşdıracağınızı göstərir.
 
-Başqa sualınız varsa, lütfən bildirin!
